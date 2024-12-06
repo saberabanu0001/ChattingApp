@@ -18,7 +18,7 @@ ChattingApp is a real-time messaging application where users can send text messa
 
 ## 📸 Screenshots
 ### Chat Window
-![Chat Window Screenshot](path-to-your-screenshot.jpg)
+![Chat Window Screenshot](C:\Users\user\Pictures\Screenshots)
 
 ---
 
